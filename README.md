@@ -1,4 +1,5 @@
-# Non-Aligned Multi-View Multi-Label Classification Via Learning View-Specific Labels
+# LVSL
+Non-Aligned Multi-View Multi-Label Classification Via Learning View-Specific Labels
 # citation
 @ARTICLE{9939043,
   author={Zhao, Dawei and Gao, Qingwei and Lu, Yixiang and Sun, Dong},
